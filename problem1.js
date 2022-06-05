@@ -13,7 +13,6 @@ function sumOfMultiples(upToNum) {
       sum = sum + i
     }
   }
-
   return sum
 }
 
